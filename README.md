@@ -76,4 +76,4 @@ containing 12,575 records using Microsoft Excel.
 ## 👤 Author
 **Vathada Swaroop Kumar**
 
-[LinkedIn](https://www.linkedin.com/in/vathada-swaroop-kumar-277660198?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[LinkedIn] (https://www.linkedin.com/in/swaroopkumarvathada)
